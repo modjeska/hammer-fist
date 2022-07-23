@@ -1,0 +1,19 @@
+{
+  "name": "hammer-fist",
+  "version": "1.0.0",
+  "description": "text editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modjeska/hammer-fist.git"
+  },
+  "author": "Dante Stargiotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modjeska/hammer-fist/issues"
+  },
+  "homepage": "https://github.com/modjeska/hammer-fist#readme"
+}
