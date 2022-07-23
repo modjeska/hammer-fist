@@ -9,6 +9,7 @@
 
 ## Table of Contents
 * [Description](#description)
+* [Deployement](#deployment)
 * [Installation](#installation)
 * [Packages](#table-of-contents)
 * [Usage](#usage)
@@ -22,6 +23,9 @@
 - Users will have the ability to:
   - Use offline.
   - Save text into local storage.
+  
+## [Deployment](#deployment)
+Access the live deployement [here!](https://hammer-fist.herokuapp.com/)
 
 ## [Installation](#table-of-contents)
   <b>To install the program (node.js required):</b>
@@ -41,23 +45,16 @@
 This program can be used to edit text offline/online.
     
 ## [License](#table-of-contents)
-  
    The application is covered under the following license:
-  
    [mit](https://choosealicense.com/licenses/mit)
   
 ## [Contributing](#table-of-contents)
-    
    I will not be accepting contributions from third parties.
   
 ## [Tests](#table-of-contents)
-  
    Users can test as they wish.
   
 ## [Questions](#table-of-contents)
-  
    Please contact me using the following links:
-  
    [GitHub](https://github.com/modjeska)
-  
    [Email: dantestargio@gmail.com](mailto:dantestargio@gmail.com)
